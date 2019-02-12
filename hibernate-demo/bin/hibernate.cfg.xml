@@ -13,7 +13,7 @@
         <property name="connection.password">hbstudent</property> -->
         
         <!-- JDBC Connection for mysql database in putty -->
-        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="connection.url">jdbc:mysql://192.168.1.21:3306/otsiqa</property>
         <property name="connection.username">demouser</property>
         <property name="connection.password">demouser</property>
